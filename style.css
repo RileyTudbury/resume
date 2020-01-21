@@ -1,0 +1,14 @@
+
+body{
+  background-color: bisque;
+}
+
+section.title{
+  text-align: center;
+}
+section.education{
+  text-align: left;
+}
+p.intro{
+  font-size: larger;
+}
